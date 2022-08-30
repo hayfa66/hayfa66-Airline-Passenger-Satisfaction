@@ -16,7 +16,7 @@ practice my programming skill in python and answer a few questions of interest
 
  1. Question 1 : Is there a relation between any of the satisfaction levels and the overall Satisfaction ?
  
- 2. Question 2 : Does the biology Factors like age , gender and Hours spent on flight affect the overall Satisfaction ?
+ 2. Question 2 : Does the biological Factors like age , gender and Hours spent on flight affect the overall Satisfaction ?
  
  3. Question 3 : Does the in-flight entertainment is specified for a certain age ?
 
