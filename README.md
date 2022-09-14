@@ -24,7 +24,7 @@ practice my programming skill in python and answer a few questions of interest
 
 ## File Descriptions
 
-Project I Airline.ipynb: Notebook containing my code , visualization and analysis.
+Airline.ipynb: Notebook containing my code , visualization and analysis.
 
 airline_passenger_satisfaction.csv: the data set.
 
